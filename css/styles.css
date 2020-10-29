@@ -25,6 +25,10 @@ body {
   color: #212121;
 }
 
+li {
+  font-size: 30px;
+}
+
 .gallery {
   display: grid;
   width: 1200px;
