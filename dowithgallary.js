@@ -1,4 +1,4 @@
-import arrImgs from '/gallery-items.js';
+import arrImgs from './gallery-items.js';
 // Вставляем в DOM элементы из массива arrImg, согласно шаблону
 /* <li class="gallery__item">
   <a
